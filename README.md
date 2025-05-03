@@ -17,4 +17,4 @@ Play it here at: https://hanktchen18.github.io/DrumKit/
 - Sound file handling
 
 ## Preview
-![Drum video](https://github.com/user-attachments/assets/4865671e-7192-44e1-9a48-9bcb2aac8d0a)
+![Screen Recording 2025-05-02 at 6 01 00 PM](https://github.com/user-attachments/assets/c8b17c53-3932-4881-97b5-458efb2f8614)
